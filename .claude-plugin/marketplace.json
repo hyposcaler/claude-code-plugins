@@ -4,12 +4,12 @@
     "name": "Dennis Fanshaw"
   },
   "metadata": {
-    "description": "Containerlab plugin for Claude Code"
+    "description": "Hyposcaler plugins for Claude Code"
   },
   "plugins": [
     {
       "name": "clab",
-      "source": ".",
+      "source": "./plugins/clab",
       "description": "Deploy, inspect, and manage containerlab SR Linux network labs",
       "version": "1.0.0",
       "license": "MIT"
