@@ -46,7 +46,7 @@ Show me all running labs
 ```
 
 ```
-Run "show interface brief" on node srl1 in the srlinux-lab
+Run "show version" on node srl1 in the srlinux-lab
 ```
 
 ```
